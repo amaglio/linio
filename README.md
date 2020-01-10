@@ -17,14 +17,14 @@ operators or `else`.
 * You can write the challenge in any language you want. Here at Linio we are
 big fans of PHP, Kotlin and TypeScript
 
-## INFORMACION 
+## INFORMACIÓN 
 
 El algorimo fue desarrollado con paradigma orientado a objetos. 
 
 Nota: Se desestimó la idea de usar un framework como codeigniter o symfony por considerar ineficiente sumar una gran cantidad de código que no será utilizado.
 
  
-### INSTALACION
+### INSTALACIÓN
 
 El algorimo se encuentra en: ./src/index.php
 Las clases se encuentran en: ./src/clases/
