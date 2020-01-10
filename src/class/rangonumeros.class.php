@@ -36,7 +36,10 @@ final Class RangoNumeros{
 					$imprimir = $value['etiqueta'];
 			}
 
-			//echo  "$i: ".$imprimir."<br>";
+			//
+			// Se imprime separado por espacio para facilitar el string de testeo
+			// En caso de querer verlo en columnas, modificar la siguiente linea (genera error en la clase que teste la impresion final ) 
+			// echo  "$i: ".$imprimir."<br>";
 			$output .= "$imprimir ";
 		}
 		print($output);
