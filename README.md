@@ -35,8 +35,12 @@ Se decidió utilizar la libreria PHPUNIT para realizar las pruebas unitarias a l
  
 Las mismas deben ejecutarse desde PHP CLI ( consola )
 ```
-$ ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/rangoNumerosTest.php
 $ ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/numeroTest.php
+OK (3 tests, 6 assertions)
+
+$ ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/rangoNumerosTest.php
+OK (2 tests, 2 assertions)
+
 ```
  
 
