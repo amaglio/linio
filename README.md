@@ -1,6 +1,6 @@
 # EXAMEN DE LINIO
 
-Se debe resolver el algoritmo enviado por Multiplica con los siguiente requerimientos:
+Se debe resolver el algoritmo enviado por Multiplica con los siguientes requerimientos:
 
 Write a program that prints all the numbers from 1 to 100. However, for
 multiples of 3, instead of the number, print "Linio". For multiples of 5 print
@@ -30,10 +30,9 @@ El algorimo se encuentra en: ./src/index.php
 Las clases se encuentran en: ./src/clases/
 
 
-
 ## TEST UNIT
 
-Se decidió utilizar la libreria PHPUNIT para realizar las pruebas unitarias a las clases.
+Se decidió utilizar la librería PHPUNIT para realizar las pruebas unitarias a las clases.
  
 Las mismas deben ejecutarse desde PHP CLI ( consola )
 ```
