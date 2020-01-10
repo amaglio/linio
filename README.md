@@ -29,6 +29,8 @@ Nota: Se desestimó la idea de usar un framework como codeigniter o symfony por 
 El algorimo se encuentra en: ./src/index.php
 Las clases se encuentran en: ./src/clases/
 
+
+
 ## TEST UNIT
 
 Se decidió utilizar la libreria PHPUNIT para realizar las pruebas unitarias a las clases.
